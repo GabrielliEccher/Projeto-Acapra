@@ -1,22 +1,23 @@
-#  Projeto-ACAPRA
+# Projeto-ACAPRA
 
-Site institucional desenvolvido para a ACAPRA (Associação Catarinense de Proteção aos Animais), com o objetivo de divulgar informações sobre adoção responsável, doações, voluntariado e formas de contato com a organização.
+Site institucional desenvolvido para a ACAPRA (Associação Catarinense de Proteção aos Animais), com o objetivo de facilitar o processo de adoção responsável, divulgar animais disponíveis para adoção e fornecer informações sobre doações, voluntariado e formas de contato com a organização.
 
 ## Sobre o Projeto
 
-A ACAPRA é uma entidade voltada à proteção e bem-estar animal. Este projeto foi desenvolvido como atividade acadêmica para aplicar conhecimentos de desenvolvimento web utilizando HTML.
+A ACAPRA é uma entidade voltada à proteção e ao bem-estar animal. Este projeto foi desenvolvido como atividade acadêmica para aplicar conhecimentos de desenvolvimento web utilizando HTML.
 
-O site busca oferecer uma navegação simples e intuitiva para que os usuários encontrem informações importantes sobre a instituição e suas ações.
+O site foi criado para aproximar a comunidade da instituição, facilitando o acesso às informações sobre adoção de animais, permitindo que os interessados conheçam os pets disponíveis e encontrem orientações sobre como realizar uma adoção responsável.
 
 ## Funcionalidades
 
-* Página institucional sobre a ACAPRA;
+* Página inicial com informações sobre a ACAPRA;
+* Página com animais disponíveis para adoção;
+* Informações sobre o processo de adoção responsável;
 * Área com informações sobre doações;
 * Página de contato;
-* Informações sobre adoção de animais;
 * Área para interessados em trabalho voluntário;
 * Seção de perguntas frequentes;
-* Links para redes sociais da instituição.
+* Links para as redes sociais da instituição.
 
 ## Tecnologias Utilizadas
 
@@ -31,6 +32,7 @@ Projeto-Acapra/
 │
 ├── index.html
 ├── sobre.html
+├── animais.html
 ├── doacoes.html
 ├── entre_em_contato.html
 ├── voluntario.html
@@ -42,7 +44,7 @@ Projeto-Acapra/
     └── demais imagens do projeto
 ```
 
-## Como Executar
+## 🚀 Como Executar
 
 1. Clone este repositório:
 
@@ -56,17 +58,16 @@ git clone https://github.com/GabrielliEccher/Projeto-Acapra.git
 
 ## Objetivo Acadêmico
 
-Aplicar conceitos de desenvolvimento web, organização de conteúdo, navegação entre páginas e estruturação semântica utilizando HTML.
+Aplicar conceitos de desenvolvimento web, organização de conteúdo, navegação entre páginas e estruturação semântica utilizando HTML, desenvolvendo uma solução digital que auxilie na divulgação da adoção responsável e no encaminhamento de animais para novos lares.
 
 ## Autoras
 
-Gabrielli Eccher
-Manuela Rosin
-Thaís Fabiana de Souza
+* Gabrielli Eccher
+* Manuela Rosin
+* Thaís Fabiana de Souza
 
 ## Instituição
 
 ACAPRA – Associação Catarinense de Proteção aos Animais.
 
-Instagram:
-https://www.instagram.com/acaprabrusquesc
+Instagram: https://www.instagram.com/acaprabrusquesc
